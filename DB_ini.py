@@ -78,5 +78,6 @@ def addContents():
 
 
 addSPs()
+addServices()
 addContents()
 c.close()
